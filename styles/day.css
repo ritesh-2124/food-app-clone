@@ -1,0 +1,27 @@
+
+.childDiv{
+    height: 400px;
+    width: 90%;
+    margin-left: 4%;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    border-radius: 10px;
+    border: 2px solid red;
+    overflow: auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.childDiv>img{
+    height: 100%;
+    border-radius: 10px;
+    width: 100%;
+
+}
+.childDiv>div{
+    padding: 20px;
+}
+h2{
+    margin-top: 0;
+}

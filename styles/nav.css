@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+#navbar{
+height: 70px;
+width: 100%;
+background-color:rgb(158, 144, 137);
+display: flex;
+justify-content: space-around;
+padding: 10px;
+
+}
+#navbar>input{
+height: 30px;
+width: 400px;
+border-radius: 20px;
+padding-left: 20px;
+margin-top: 20px;
+}
+#icon{
+    width: 140px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: white 2px solid;
+    border-radius: 20px;
+    background-color: black;
+    height: 30px;
+    margin-top: 10px;
+    padding-top: 10px;
+    text-decoration: none;
+    color: white;
+}
+#logo{
+    height: 100%;
+    margin-top: -10px;
+}
